@@ -1,0 +1,45 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    color: navy;
+    background-color: #90EE90;
+    
+}
+
+header a {
+    border-radius: 90px;
+    border: 3px solid #00FFFF ;
+    text-decoration: none;
+    background-color: #00FFFF;
+    margin: 5px;
+    padding: 2 px;
+}
+
+h1 {
+    text-align: center;
+    font-family: segoe script;
+    font-size: 50px;
+}
+
+footer {
+    background-color: #C71585;
+}
+
+footer p {
+    background-color: white;
+    border: 1px solid black;
+}
+
+select {
+    margin: 22px;
+    padding: 12px;
+    border-radius: 20px;
+    background-color: #F08080;
+    border: 2px solid black;
+}
+
+.spysok {
+    background-color: #3CB371;
+}
