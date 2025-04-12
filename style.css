@@ -43,3 +43,17 @@ select {
 .spysok {
     background-color: #3CB371;
 }
+
+nav {
+    margin: 20px;
+    padding: 10px;
+    border: 2p solid lightblue;
+}
+
+nav a {
+    margin: 62px;
+    font-size: 22px;
+    text-decoration: none;
+    font-family: segoe script;
+    color: #000080;
+}
